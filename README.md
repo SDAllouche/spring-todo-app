@@ -1,1 +1,4 @@
-"# spring-todo-app" 
+# Spring Todo-List Application
+
+## License
+[MIT LICENSE](License)
